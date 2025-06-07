@@ -4,3 +4,9 @@ body {
   font-family:'Archivo',sans-serif;
 }
 
+header {
+  background-color: blue;
+  color:red;
+  font-display: 'Archivo',sans-serif;
+}
+
