@@ -10,9 +10,11 @@ export default function Home(){
     transition={{ duration: 1.5}}
     >
       <h1 className="text-6xl md:text-8xl font-bold tracking-tight">
-        ABE SOUTA
+        Mino 
       </h1>
       <p className="mt-4 text-lg text-gray-300">映像作家　/　VJ　/　技術演出</p>
+      <h2>経歴</h2>
+      <li>芝浦工業大学</li>
     </motion.main>
   )
 }
